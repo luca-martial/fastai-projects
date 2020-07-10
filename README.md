@@ -4,7 +4,7 @@
 [![Contributors][contributors-shield]][contributors-url]
 
 
-# Deep Learning Projects Using `fastai`
+# Deep Learning Projects – `fastai`
 
 This repository contains different deep learning project notebooks that were run using the fastai framework. 
 
@@ -30,14 +30,14 @@ Does something seem off? Make sure to [report it](https://github.com/luca-martia
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[issues-shield]: https://img.shields.io/github/issues/Vehicle-detection-for-mode-share/Vehicle-Detection.svg
-[issues-url]: https://github.com/Vehicle-detection-for-mode-share/Vehicle-Detection/issues
+[issues-shield]: https://img.shields.io/github/issues/luca-martial/fastai-projects.svg
+[issues-url]: https://github.com/luca-martial/fastai-projects/issues
 
-[forks-shield]: https://img.shields.io/github/forks/Vehicle-detection-for-mode-share/Vehicle-Detection.svg
-[forks-url]: https://github.com/Vehicle-detection-for-mode-share/Vehicle-Detection/forks
+[forks-shield]: https://img.shields.io/github/forks/luca-martial/fastai-projects.svg
+[forks-url]: https://github.com/luca-martial/fastai-projects/forks
 
-[stars-shield]: https://img.shields.io/github/stars/Vehicle-detection-for-mode-share/Vehicle-Detection.svg
-[stars-url]: https://github.com/Vehicle-detection-for-mode-share/Vehicle-Detection/stargazers
+[stars-shield]: https://img.shields.io/github/stars/luca-martial/fastai-projects.svg
+[stars-url]: https://github.com/luca-martial/fastai-projects/stargazers
 
-[contributors-shield]: https://img.shields.io/github/contributors/Vehicle-detection-for-mode-share/Vehicle-Detection.svg
-[contributors-url]: https://github.com/Vehicle-detection-for-mode-share/Vehicle-Detection/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/luca-martial/fastai-projects.svg
+[contributors-url]: https://github.com/luca-martial/fastai-projects/contributors
