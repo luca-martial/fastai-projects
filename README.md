@@ -14,7 +14,7 @@ Here is a list of the projects contained in this repository, classified accordin
 
 **Vision:**
 
-- **[mask-wear](https://github.com/luca-martial/fastai-projects/mask-wear)**: The goal of this project was to build an image classifier that identifies whether a person is wearing their mask properly or imporperly. Data was manually collected: a total of 90 pictures of proper and improper mask wear (equal split). 
+- **[mask-wear](https://github.com/luca-martial/fastai-projects/tree/master/mask-wear)**: The goal of this project was to build an image classifier that identifies whether a person is wearing their mask properly or imporperly. Data was manually collected: a total of 90 pictures of proper and improper mask wear (equal split). 
 
 ## Contributing
 
