@@ -1,6 +1,3 @@
-# Identifying Improper Mask Wear
+# Classifying Endangered Birds From the Prek Toal Reserve
 
-The goal of this project was to build an image classifier that identifies whether a person is wearing their mask properly or imporperly. Images were manually gathered using Google Images. A total of 45 images of proper mask wear and 45 images of improper mask wear were gathered.
-
-**Results:** reached an error rate of 17% (3 images out of 18 were incorrectly classified)
-
+The goal of this project was to build an image classifier that identifies different endangered waterbird species present throughout the Prek Toal Reserve in Southeast Asia. This classifier has the potential to bring support to NGOs such as [Osmose](http://osmosetonlesap.net/wp/index.php/en/home/) which ensure the protection of waterbird colonies throughout the reproductive cycle. Data was collected using Google Images.
