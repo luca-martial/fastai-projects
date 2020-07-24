@@ -16,6 +16,8 @@ Here is a list of the projects contained in this repository, classified accordin
 
 - **[mask-wear](https://github.com/luca-martial/fastai-projects/tree/master/mask-wear)**: The goal of this project was to build an image classifier that identifies whether a person is wearing their mask properly or imporperly. Data was manually collected: a total of 90 pictures of proper and improper mask wear (equal split). 
 
+- **[osmose-birds](https://github.com/luca-martial/fastai-projects/tree/master/osmose-birds)**: The goal of this project was to build an image classifier that identifies different endangered waterbird species present throughout Southeast Asia. This classifier has the potential to bring support to NGOs such as [Osmose](http://osmosetonlesap.net/wp/index.php/en/home/) which ensure the protection of waterbird colonies throughout the reproductive cycle.
+
 ## Contributing
 
 Contributions are what make the open source community a great place to learn, inspire, and create. Any contributions you make are really helpful!
