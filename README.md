@@ -18,6 +18,8 @@ Here is a list of the projects contained in this repository, classified accordin
 
 - **[osmose-birds](https://github.com/luca-martial/fastai-projects/tree/master/osmose-birds)**: The goal of this project was to build an image classifier that identifies different endangered waterbird species present throughout the Prek Toal Reserve in Cambodia. This classifier has the potential to bring support to NGOs such as [Osmose](http://osmosetonlesap.net/wp/index.php/en/home/) which ensure the protection of waterbird colonies throughout the reproductive cycle. Data was collected using Google Images. 
 
+- **[nlp-tweets](https://github.com/luca-martial/fastai-projects/tree/master/nlp-tweets)**: The goal of this project was to build a machine learning model that predicts which Tweets are about real disasters and which one’s aren’t. I had access to a dataset of 10,000 tweets that were hand classified. This project was part of a Kaggle competition where I scored a 79.5% accuracy.
+
 ## Contributing
 
 Contributions are what make the open source community a great place to learn, inspire, and create. Any contributions you make are really helpful!
