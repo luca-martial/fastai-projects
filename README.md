@@ -4,7 +4,7 @@
 [![Contributors][contributors-shield]][contributors-url]
 
 
-# Deep Learning Projects: Leveraging `fastai`
+# Deep Learning Projects: Leveraging `fastai v1`
 
 This repository contains different deep learning project notebooks that were run using the fastai framework. 
 
