@@ -10,7 +10,7 @@ This repository contains different deep learning project notebooks that were run
 
 ## Structure
 
-Here is a list of the projects contained in this repository, classified according to the deep learning domain they belong to.
+Here is a list of the projects contained in this repository, classified according to the domain they belong to.
 
 **Vision:**
 
